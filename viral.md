@@ -1,10 +1,10 @@
 ## Key Point
 
-The video idea matters much more than editing or aesthetics.
+1. The video idea matters much more than editing or aesthetics.
 
-Giving 2x the effort when making the video will probably result in 10x the views.
+2. Giving 2x the effort when making the video will probably result in 10x the views.
 
-It is easier to make one video that gets 5 million views than it is to make 50 videos that each get 100,000 views.
+3. It is easier to make one video that gets 5 million views than it is to make 50 videos that each get 100,000 views.
 
 ## Optimize
 
