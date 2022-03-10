@@ -29,7 +29,7 @@ Its easier to make one video that gets 5 million views than it is to make 50 vid
 - Has popular keywords
 - Clickbait (that you deliver)
 
-## Thumbnail
+### Thumbnail
 
 **Goal**: Make them click
 
@@ -42,7 +42,7 @@ Its easier to make one video that gets 5 million views than it is to make 50 vid
 - No distracting backgrounds
 - Interesting stuff in front
 
-## Hook
+### Hook
 
 **Goal**: Keep them there
 
@@ -50,7 +50,7 @@ Transient attention lasts 8 seconds. You must hook them in this time. Focus them
 
 Focused attention lasts 4 minutes. Add something particularly exciting or interesting every 4 minutes to hold them.
 
-## Story
+### Story
 
 **Goal**: Keep them there
 
