@@ -14,7 +14,7 @@ Its easier to make one video that gets 5 million views than it is to make 50 vid
 
 ## Title
 
-Goal: Make them click out of extreme curisoity or high value proposition
+Goal: Make them click
 
 - Under 50 characters
 - Simple
@@ -29,6 +29,8 @@ Goal: Make them click out of extreme curisoity or high value proposition
 
 ## Thumbnail
 
+Goal: Make them click
+
 - Simple
 - Have person
 - Accurate
@@ -40,32 +42,23 @@ Goal: Make them click out of extreme curisoity or high value proposition
 
 ## Hook
 
+Goal: Keep them there
+
 Transient attention lasts 8 seconds. You must hook them in this time. Focus them on the goal of the video and show them it is what they were expecting.
 
 Focused attention lasts 4 minutes. Add something particularly exciting or interesting every 4 minutes to hold them.
 
 ## Story
 
-Always interesting, no boring or slow parts.
+Goal: Keep them there
 
-No extra fat, only the interesting bits delivered well.
-
-Make people excited for what is coming next in the video. Make sure they have to stick around to hear about it.
-
-Assure viewers immediately you will return on those expectations.
-
-Add cuts and B ans C cams with other angles to keep the video more interesting.
-
-Have a good payoff at the end.
-
-You want to make a video you cant find anywhere else.
-
-You want them to get so excited so they have to watch another.
-
-Have a side story that is introduced in the beginning and concluded only at the end so that if people click away, they are left wondering how the side story concludes.
-
-Reveal the payoff at the end
-
-Include people reacting honestly
-
-Use large text pop ups to emphasize important details and keep things interesting.
+- Unique
+- Always interesting, zero boring moments
+- Create anticipation about whats coming next in the video
+- Reveal payoff at the end
+- Include people reacting honestly
+- Switch between multiple camera angles
+- Use effects
+- Use text to emphasize important details
+- Deliver paoff
+- They should leave wanting to watch another
