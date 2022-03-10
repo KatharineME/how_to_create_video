@@ -6,13 +6,11 @@ Giving 2x the effort when making the video will probably result in 10x the views
 
 Its easier to make one video that gets 5 million views than it is to make 50 videos that each get 100,000 views.
 
-
 ## What YouTube Values
 
 - click-through rate (how often someone clicks your video after seeing it)
 - viewer retention (how long someone watches)
 - sureys responses (does someone report your video was valuable to them)
-
 
 ## Title
 
@@ -40,7 +38,6 @@ Clickbait that you actually deliver
 
 Title should make people stay up at night wanting to know what the fuck was in that video. Needing to watch it out of insatiable curiosity.
 
-
 ## Thumbnail
 
 Simple
@@ -59,15 +56,11 @@ Avoid distracting backgrounds
 
 Interesting stuff should be in the front
 
-
-
 ## Hook
 
 Transient attention lasts 8 seconds, you must hook the person in the time and focus them on the goal of the video.
 
-Focused attention lasts 4 minutes, therefore there needs to be something exciting and 
-
-
+Focused attention lasts 4 minutes, therefore there needs to be something exciting and
 
 ## Story
 
