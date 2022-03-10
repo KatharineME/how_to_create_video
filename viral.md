@@ -8,59 +8,41 @@ Its easier to make one video that gets 5 million views than it is to make 50 vid
 
 ## What YouTube Values
 
-- click-through rate (how often someone clicks your video after seeing it)
-- viewer retention (how long someone watches)
-- sureys responses (does someone report your video was valuable to them)
+- Click-through rate (how often someone clicks your video after seeing it)
+- Viewer retention (how long someone watches)
+- Sureys responses (does someone report your video was valuable to them)
 
 ## Title
 
-Goal: Make them click and set high expectations that you will deliver
+Goal: Make them click out of extreme curisoity or high value proposition
 
-Under 50 characters
-
-Simple
-
-Universally interesting
-
-No context needed
-
-Not confusing or ambiguous
-
-No fat
-
-Personal
-
-Choose most intriguing words
-
-Include most popular key words that people are searching for (add underscores in phrases to enhance search)
-
-Clickbait that you actually deliver
-
-Title should make people stay up at night wanting to know what the fuck was in that video. Needing to watch it out of insatiable curiosity.
+- Under 50 characters
+- Simple
+- Universally interesting
+- No context needed
+- Not confusing or ambiguous
+- No fat
+- Personal
+- Has intriguing words
+- Has popular keywords
+- Clickbait (that you deliver)
 
 ## Thumbnail
 
-Simple
-
-Have person
-
-Accurate
-
-Bright
-
-Easily readable on a phone or in list of videos.
-
-Dont waste space
-
-Avoid distracting backgrounds
-
-Interesting stuff should be in the front
+- Simple
+- Have person
+- Accurate
+- Bright
+- No wasted space
+- Easily readable on a phone or in list of videos
+- No distracting backgrounds
+- Interesting stuff in front
 
 ## Hook
 
-Transient attention lasts 8 seconds, you must hook the person in the time and focus them on the goal of the video.
+Transient attention lasts 8 seconds. You must hook them in this time. Focus them on the goal of the video and show them it is what they were expecting.
 
-Focused attention lasts 4 minutes, therefore there needs to be something exciting and
+Focused attention lasts 4 minutes. Add something particularly exciting or interesting every 4 minutes to hold them.
 
 ## Story
 
@@ -87,9 +69,3 @@ Reveal the payoff at the end
 Include people reacting honestly
 
 Use large text pop ups to emphasize important details and keep things interesting.
-
-## Free images
-
-https://www.pexels.com
-
-https://unsplash.com
