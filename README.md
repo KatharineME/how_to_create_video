@@ -42,8 +42,10 @@ Music
 
 Keynote
 
-## Upload and Store
+## Upload
 
-Upload once a week to channel.
+Once a week to YouTube
 
-Store raw copy in hard drive.
+## Store
+
+Keep raw copy in hard drive
