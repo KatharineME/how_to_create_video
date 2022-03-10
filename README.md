@@ -38,7 +38,7 @@ Music
 - http://freemusicarchive.org
 - https://studio.youtube.com/channel/UCb5W5WqauDOwubZHb-IA_rA/music
 
-## Thumnail
+## Thumbnail
 
 Keynote
 

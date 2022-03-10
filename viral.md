@@ -34,7 +34,7 @@
 **Goal**: Make them click
 
 - Simple
-- Have person
+- Has persons face
 - Accurate
 - Bright
 - No wasted space
