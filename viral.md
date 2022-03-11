@@ -1,4 +1,4 @@
-## Key Point
+## Key point
 
 1. The video idea matters much more than editing or aesthetics.
 

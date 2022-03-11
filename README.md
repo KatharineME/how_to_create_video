@@ -10,9 +10,9 @@ Post on personal website
 
 Sony camera
 
-OBS
-
 Rode microphone
+
+OBS
 
 Procreate for drawing
 
@@ -43,6 +43,8 @@ Music
 Keynote
 
 ## Upload
+
+Wait to upload until 4-5 videos are done
 
 Once a week to YouTube
 
