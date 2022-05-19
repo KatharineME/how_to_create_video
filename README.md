@@ -33,6 +33,7 @@ Icons
 
 Music
 
+- https://taketones.com/search?q=lofi
 - https://www.purple-planet.com
 - https://www.joshwoodward.com/?album_id=13
 - http://freemusicarchive.org
