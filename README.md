@@ -43,6 +43,12 @@ Music
 
 Keynote
 
+## Tags
+
+Rank from most important to least
+Check trending videos on this topic and use their phrases
+Use Keyword tool https://keywordtool.io/youtube
+
 ## Upload
 
 Wait to upload until 4-5 videos are done
