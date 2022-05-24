@@ -31,3 +31,20 @@ On the camera
 
 - Go to Movie2 > 2/9 > Audio Rec Level
 - Make sound into the microphone and adjust level until sound peaks around -12dB
+
+## Setup with computer
+
+Before recording audio via usb connection to the computer set
+
+On the microphone
+
+- Turn on -20dB pad
+- Turn on 75Hz high-pass filter
+- Turn gain knob to 10
+
+On the computer
+
+- Set RODE mic as input device
+- Set input volume to maximum in System Preferences
+- Set Quick Time Player input device to RODE
+- Set Quick Time Player quality to maximum
