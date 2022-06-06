@@ -16,7 +16,13 @@ OBS
 
 Procreate for drawing
 
-## Edit
+## Audio edit
+
+[Audacity](https://www.audacityteam.org)
+
+Follow [these instructions](https://www.youtube.com/watch?v=Rj7sbBng-T8&t=1s)
+
+## Video edit
 
 Final Cut Pro
 
@@ -41,7 +47,11 @@ Music
 
 ## Thumbnail
 
-Keynote
+- Big text
+- High contrast
+- Persons face
+- Enticing visuals
+- Edit in Keynote
 
 ## Tags
 
