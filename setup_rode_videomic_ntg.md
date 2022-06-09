@@ -34,8 +34,6 @@ On the camera
 
 ## Setup with computer
 
-Before recording audio via usb connection to the computer set
-
 On the microphone
 
 - Turn on -20dB pad

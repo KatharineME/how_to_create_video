@@ -1,10 +1,10 @@
 ## Idea
 
-List in Reminders
+Make draft post (hidden) on personal website that will become the script
 
 ## Script
 
-Post on personal website
+Write in draft post on personal website
 
 ## Film
 
@@ -39,6 +39,7 @@ Icons
 
 Music
 
+- https://pixabay.com/music/
 - https://taketones.com/search?q=lofi
 - https://www.purple-planet.com
 - https://www.joshwoodward.com/?album_id=13
